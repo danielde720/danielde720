@@ -7,7 +7,8 @@
 - 🚀 Presently working in shipping and receiving for an aerospace engineering company.
 - 📚 Spent the last 8 months upskilling in various technologies and architectures.
 - 🌱 Actively seeking my first opportunity as a Data Engineer.
-- 📄 Check out my resume here [Resume (3).pdf](https://github.com/danielde720/danielde720/files/13064541/Resume.3.pdf)
+- 📄 Check out my resume here [Resume.pdf](https://github.com/danielde720/danielde720/files/13064550/Resume.pdf)
+
 
 ---
 
