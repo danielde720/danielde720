@@ -9,20 +9,13 @@
 - 🌱 Actively seeking my first opportunity as a Data Engineer.
 - 📄 Check out my resume here [Resume.pdf](https://github.com/danielde720/danielde720/files/13064550/Resume.pdf)
 
+  <br>
+
+- you can also check out my online profiles or contact me:
+
+     
+- 🌐  [LinkedIn:](https://www.linkedin.com/in/daniel-rodriguez-bb3540288)
+- 📧  daniel4rod@gmail.com
 
 ---
 
-<!--
-**danielde720/danielde720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
